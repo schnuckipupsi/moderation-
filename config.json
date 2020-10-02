@@ -1,0 +1,9 @@
+{
+    "owners": [""],
+    "prefix": "$",
+    "token": "",
+    "dbltoken": "",
+    "mongoose": "MongoDB uri",
+    "shard": // Number of shards,
+    "canary": true
+}
